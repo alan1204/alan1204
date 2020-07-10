@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **alan1204/alan1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Full Stack Developer passionate about technology, with four years of
+experience in all software development stages with consideration of customer
+needs, functionality, latest technology and programming standards, I've
+worked for companies in different sectors, contributing to problem solving and
+process automation. I have a great knowledge in different technologies
+including ASP.NET, C#, JavaScript, and Microsoft SQL Server. I'm a fast
+learner, a strong team player with excellent social skills
