@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Full Stack Developer passionate about technology, with four years of experience in all software development stages with consideration of customer needs, functionality, the latest technology and programming standards, I've worked for companies in different sectors, contributing to problem-solving and process automation. I'm a fast learner, strong team player with excellent social skills.
+I am a Software Developer passionate about technology, with four years of experience in all software development phases with consideration of customer needs, functionality, the latest technology, and programming standards, I've worked in companies in different sectors, contributing to problem-solving and process automation. I'm a fast learner, strong team player with excellent social skills.
