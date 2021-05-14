@@ -2,8 +2,6 @@
   <br>
   <br>
   <samp>Hello World! I'm Alan Alvarez.<br> I'm a .Net Developer.
-  <br>👨‍💻
-  <br>
   <br>
 </p>
   
@@ -13,8 +11,11 @@
     <a href="https://twitter.com/1204Alan"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<p align="center">
+      <img src="https://repository-images.githubusercontent.com/278719389/4c420080-b4e0-11eb-97ef-d093f0a11565" width="350" />
+</p>
+
 <p align="center" style= "color: #4F2172">
-  <br>
   <br> Technologies & Tools
   <br>  
 </p>
@@ -61,4 +62,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
